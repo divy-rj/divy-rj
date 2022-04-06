@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Divyanshu
 #### I am a Backend Developer
-![I am a Backend Developer]
+
 ![1641752388034](https://user-images.githubusercontent.com/67179438/162037939-46d25c01-94d9-4693-a0fb-a2884ddcd207.jpg)
 
 
